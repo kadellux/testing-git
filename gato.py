@@ -1,3 +1,4 @@
+this was done in the terminal
 #!/bin/bash
 print hello world
 echo `pwd`
